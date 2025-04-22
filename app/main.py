@@ -12,7 +12,7 @@ def hello():
 
 @app.get("/nuevo")
 def nuevo():
-    return {"message": "Este es el nuevo endpoint"}
+    return {"message": "Este es el nuevo endpoint didi"}
 
 
 #from fastapi import FastAPI
